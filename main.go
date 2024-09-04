@@ -7,6 +7,7 @@ import (
 	"net/http"
 )
 
+// trigger ci
 func SetupRouter() *gin.Engine {
 	router := gin.Default()
 
